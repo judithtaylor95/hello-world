@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-Practice hello world
+ Hello world lol
